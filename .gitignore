@@ -1,0 +1,16 @@
+.svn
+target
+.DS_Store
+*.ipr
+*.iml
+*.iws
+.idea
+*.pid
+*.log
+rrd
+graph.db
+snapshot.*
+log.*
+*.lck
+ajcore*txt
+__MACOSX
